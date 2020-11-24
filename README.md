@@ -17,7 +17,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/byn(7).pdf" style="text-decoration:none;">deal: A Package for Learning Bayesian Networks</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/byn(8).pdf" style="text-decoration:none;"> Introducing Bayesian Networks </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/byn(9).pdf" style="text-decoration:none;">Optimal Structure Identi¯cation With Greedy Search</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/byn(9).pdf" style="text-decoration:none;">Optimal Structure Identification With Greedy Search</a></li>
   
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Bayesian-Networks-Papers/blob/master/byn(10).pdf" style="text-decoration:none;">Dynamic Network Models for Forecasting </a></li>                              
